@@ -9,7 +9,7 @@ These examples are provided for academic & educational purposes only and should 
 For best results, use a safely isolated, easy to restore test environment using Docker and/or virtual machines.
 
 ## Contents
-- [Presentation Slides](slides.pptx)
+- [Presentation Slides](https://docs.google.com/presentation/d/1bFOIhxXMUZ6wjz8ahWWiBUeX7MMt7iPcWM-7ymi86sQ/edit?usp=sharing)
 - [Slides in PDF format](slides.pdf)
 - [cai_src](./cai_src) - Dockerized CAI container with Kali Linux and SSH access.
 - [red_team_agent.ipynb](./red_team_agent.ipynb) - Jupyter notebook demonstrating the use of the Metasploit MCP server with a red team agent. Uses Langchain & Langsmith.
